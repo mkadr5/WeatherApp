@@ -15,6 +15,8 @@
 		C07A3DDA29E363DC00D0868C /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07A3DD929E363DC00D0868C /* Colors.swift */; };
 		C07A3DDC29E36C1700D0868C /* Percent.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07A3DDB29E36C1700D0868C /* Percent.swift */; };
 		C07A3DDF29E36E9900D0868C /* TutorialStep.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07A3DDE29E36E9900D0868C /* TutorialStep.swift */; };
+		C0D6FA5729E48073005EED0C /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0D6FA5629E48073005EED0C /* SplashScreen.swift */; };
+		C0D6FA5929E48822005EED0C /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0D6FA5829E48822005EED0C /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		C07A3DD929E363DC00D0868C /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		C07A3DDB29E36C1700D0868C /* Percent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Percent.swift; sourceTree = "<group>"; };
 		C07A3DDE29E36E9900D0868C /* TutorialStep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialStep.swift; sourceTree = "<group>"; };
+		C0D6FA5629E48073005EED0C /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		C0D6FA5829E48822005EED0C /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +66,6 @@
 				C07A3DDD29E36E8400D0868C /* Model */,
 				C07A3DD529E35DDB00D0868C /* View */,
 				C07A3DC729E35D4C00D0868C /* WeatherAppApp.swift */,
-				C07A3DC929E35D4C00D0868C /* ContentView.swift */,
 				C07A3DCB29E35D4D00D0868C /* Assets.xcassets */,
 				C07A3DCD29E35D4D00D0868C /* Preview Content */,
 				C07A3DD929E363DC00D0868C /* Colors.swift */,
@@ -82,7 +85,10 @@
 		C07A3DD529E35DDB00D0868C /* View */ = {
 			isa = PBXGroup;
 			children = (
+				C07A3DC929E35D4C00D0868C /* ContentView.swift */,
+				C0D6FA5629E48073005EED0C /* SplashScreen.swift */,
 				C07A3DD729E35E1200D0868C /* TutorialView.swift */,
+				C0D6FA5829E48822005EED0C /* HomeView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -167,8 +173,10 @@
 			files = (
 				C07A3DCA29E35D4C00D0868C /* ContentView.swift in Sources */,
 				C07A3DDF29E36E9900D0868C /* TutorialStep.swift in Sources */,
+				C0D6FA5729E48073005EED0C /* SplashScreen.swift in Sources */,
 				C07A3DDA29E363DC00D0868C /* Colors.swift in Sources */,
 				C07A3DC829E35D4C00D0868C /* WeatherAppApp.swift in Sources */,
+				C0D6FA5929E48822005EED0C /* HomeView.swift in Sources */,
 				C07A3DDC29E36C1700D0868C /* Percent.swift in Sources */,
 				C07A3DD829E35E1200D0868C /* TutorialView.swift in Sources */,
 			);

@@ -31,4 +31,10 @@ extension Color{
     static var circleBarColor2: Color {
         Color("CircleBarColor2")
     }
+    static var splashBGColor1: Color {
+        Color("SplashBGColor1")
+    }
+    static var splashBGColor2: Color {
+        Color("SplashBGColor2")
+    }
 }
