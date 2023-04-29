@@ -17,6 +17,7 @@
 		C07A3DDF29E36E9900D0868C /* TutorialStep.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07A3DDE29E36E9900D0868C /* TutorialStep.swift */; };
 		C0D6FA5729E48073005EED0C /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0D6FA5629E48073005EED0C /* SplashScreen.swift */; };
 		C0D6FA5929E48822005EED0C /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0D6FA5829E48822005EED0C /* HomeView.swift */; };
+		C0DCBAC029EA197800B208BA /* SideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0DCBABF29EA197800B208BA /* SideMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		C07A3DDE29E36E9900D0868C /* TutorialStep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialStep.swift; sourceTree = "<group>"; };
 		C0D6FA5629E48073005EED0C /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
 		C0D6FA5829E48822005EED0C /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		C0DCBABF29EA197800B208BA /* SideMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				C0D6FA5629E48073005EED0C /* SplashScreen.swift */,
 				C07A3DD729E35E1200D0868C /* TutorialView.swift */,
 				C0D6FA5829E48822005EED0C /* HomeView.swift */,
+				C0DCBABF29EA197800B208BA /* SideMenu.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				C07A3DCA29E35D4C00D0868C /* ContentView.swift in Sources */,
 				C07A3DDF29E36E9900D0868C /* TutorialStep.swift in Sources */,
 				C0D6FA5729E48073005EED0C /* SplashScreen.swift in Sources */,
+				C0DCBAC029EA197800B208BA /* SideMenu.swift in Sources */,
 				C07A3DDA29E363DC00D0868C /* Colors.swift in Sources */,
 				C07A3DC829E35D4C00D0868C /* WeatherAppApp.swift in Sources */,
 				C0D6FA5929E48822005EED0C /* HomeView.swift in Sources */,

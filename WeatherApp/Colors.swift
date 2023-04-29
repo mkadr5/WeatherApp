@@ -25,6 +25,12 @@ extension Color{
     static var linearColor2: Color {
         Color("Color2")
     }
+    static var linearColor3: Color {
+        Color("Color3")
+    }
+    static var linearColor4: Color {
+        Color("Color4")
+    }
     static var circleBarColor1: Color {
         Color("CircleBarColor1")
     }
